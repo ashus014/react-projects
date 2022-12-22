@@ -25,8 +25,8 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 #### useEffect and Conditional Rendering
 
 2. Tours -----[DONE]
-3. Reviews
-4. Questions
+3. Reviews -----[DONE]
+4. Questions -----[DONE]
 5. Menu
 6. Tabs
 7. Slider
