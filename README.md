@@ -20,11 +20,11 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 
 #### useState
 
-1. Birthday Reminder
+1. Birthday Reminder -----[DONE]
 
 #### useEffect and Conditional Rendering
 
-2. Tours
+2. Tours -----[DONE]
 3. Reviews
 4. Questions
 5. Menu
